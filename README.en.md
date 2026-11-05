@@ -2,50 +2,43 @@
 
 **Web development and automation · Talca, Chile**
 
-[Español](README.md)
+[Español](https://github.com/MartinIVC/MartinIVC/blob/main/README.md)
 
-I'm an **Ingeniería Civil Informática** student at **Universidad Católica del Maule**, studying computing and software engineering. I'm interested in building applications that simplify everyday tasks: organizing information, managing bookings, and automating manual processes.
+I'm studying **Ingeniería Civil Informática (computing and software engineering) at Universidad Católica del Maule**. I build web applications and tools to organize information, manage bookings, and automate manual tasks.
 
-I'm available for **remote freelance projects**, with part-time availability agreed around my studies.
+I'm available for **remote freelance projects**, with part-time availability and timelines agreed around my studies.
 
 ## How I can help
 
-- **Web development:** websites, specific features, and applications with a frontend, backend, and database, subject to an initial scope assessment.
-- **Automation:** tools to collect, process, and organize information while reducing repetitive tasks.
-- **Deliverable-based projects:** agreeing on needs, scope, and timelines before starting, from small assignments to complete applications.
+- **Web development:** websites, new features, and applications with a frontend, API, and database.
+- **Automation:** data extraction, processing, and organization to reduce repetitive tasks.
+
+We can work on a focused assignment or assess a complete application, agreeing on scope and deliverables before starting.
 
 ## Selected projects
 
-These personal and academic projects show how I put what I learn into practice.
+A selection of my personal and academic projects:
 
-### [Scrapping Remates](https://github.com/MartinIVC/scrapping-remates)
+### [Medisalud — Appointment booking and management](https://github.com/MartinIVC/medisalud/tree/develop)
 
-A tool for exploring auction listings from Chile's Boletín Concursal without reviewing every document manually. It combines data extraction, PDF processing, and a web interface for browsing the results.
+An academic application with patient and administrative portals. It combines availability searches, schedule configuration, bookings, and management of appointments and practitioners. My work spans the interface, API, and persistence layer.
 
-**My work:** integrating data extraction and organization with a web dashboard for exploring the information.
+**React · Node.js · Express · PostgreSQL · Docker Compose**
 
-**Technologies:** Python, Flask, and pypdf.
+[View screenshots and features](https://github.com/MartinIVC/medisalud/tree/develop#vista-previa) · Functional version under development.
 
-### [Medisalud](https://github.com/MartinIVC/medisalud/tree/develop)
+### [Scrapping Remates — Chilean auction listings](https://github.com/MartinIVC/scrapping-remates)
 
-An academic medical appointment application with patient and administrative portals. It supports availability searches, schedule configuration, and management of appointments and practitioners.
+A tool that brings together information from Chile's Boletín Concursal to avoid reviewing every document manually. It integrates data extraction, PDF processing, and a web dashboard for exploring the results.
 
-**My work:** developing the application across its interface, API, and persistence layer. The latest functional version is on `develop` and remains a work in progress.
+**Python · Flask · pypdf**
 
-**Technologies:** React, Vite, Tailwind CSS, Node.js, Express, PostgreSQL, and Docker Compose.
+### [Steiner Tree Solver — Graph optimization](https://github.com/MartinIVC/steiner-tree-solver)
 
-[View screenshots and features](https://github.com/MartinIVC/medisalud/tree/develop#vista-previa)
+An implementation of heuristics and metaheuristics to connect graph nodes at a reduced cost, with solution validation and visualization. It showcases my work on algorithms and data structures.
 
-### [Steiner Tree Solver](https://github.com/MartinIVC/steiner-tree-solver)
-
-A graph optimization project exploring how to connect a set of nodes at a reduced cost. It complements my web projects with work on algorithms, data structures, and solution evaluation.
-
-**My work:** implementing heuristics and metaheuristics, validating solutions, and visualizing results.
-
-**Technologies:** C++17, Python, and Make.
+**C++17 · Python · Make**
 
 ## Let's talk about your project
 
-Email **[martinverdugocarvajal@gmail.com](mailto:martinverdugocarvajal@gmail.com)** with a brief description of what you need, your intended scope, and your expected timeline.
-
-I work remotely on a project basis, with part-time availability agreed for each engagement.
+Email **[martinverdugocarvajal@gmail.com](mailto:martinverdugocarvajal@gmail.com)** with the problem you need to solve, your intended scope, and your expected timeline.
